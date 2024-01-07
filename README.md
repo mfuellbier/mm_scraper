@@ -2,7 +2,7 @@
 This tool scans Media Markt Fundgrube for a string on a regular basis. If a new product has been founda message will be send to Telegram.
 
 ## Install
-`git clone https://github.com/mfuellbier/mm_scraper`
+`git clone https://github.com/mfuellbier/mm_scraper`  
 `pip install .`
 
 ## Description
