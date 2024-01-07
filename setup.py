@@ -15,5 +15,5 @@ setup(
         "Programming Language :: Python :: 3",
         "Operating System :: OS Independent",
     ],
-    entry_points={"console_scripts": ["mm_scraper=main:main"]},
+    entry_points={"console_scripts": ["mm_scraper=mm_scraper:main"]},
 )
